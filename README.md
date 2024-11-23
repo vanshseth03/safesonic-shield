@@ -1,1 +1,0 @@
-# safesonic-shield
